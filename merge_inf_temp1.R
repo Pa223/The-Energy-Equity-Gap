@@ -5,7 +5,7 @@ library(plyr)
 library(gapminder)
 library(gridExtra)
 library(xlsx)
-setwd("C:/Users/scong/Desktop/PhD Materials/Research/Energy Poverty Project/transforming data")
+setwd("C:/Energy Poverty Project/transforming data")
 
 ########################################
 # inf_1516 <- read.dta13("IPT Second Stage 2015-2016-p.dta")
